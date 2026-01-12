@@ -11,6 +11,7 @@ app = FastAPI(title="Cardio ML Backend")
 origins = [
     "http://localhost:3000",   # React / Next.js
     "http://127.0.0.1:3000",
+    "https://github.com/RenishPatel537/Cardio_ML_Project_backend"
 ]
 
 app.add_middleware(
