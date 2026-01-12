@@ -1,10 +1,6 @@
 fastapi
 uvicorn
+gunicorn
 pandas
 scikit-learn
 joblib
-<<<<<<< HEAD
-uvicorn
-gunicorn
-=======
->>>>>>> 4b27685 (resolve merge conflict)
